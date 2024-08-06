@@ -1,0 +1,138 @@
+*{
+	margin : 0;
+	padding : 0;
+	box-sizing : border-box;
+}
+
+html{
+	height : 100%;
+	width : 100%;
+	overflow-x : hidden;
+	background-color : #c7c1c1;
+}
+
+/* header{
+height : 100%;
+width : 100%;	
+} */
+
+.box1{
+	height : 50%;
+	width : 100%;
+	align-items : center;
+	text-align : center;
+	background-color : purple;
+	color : #ffffff;
+	font-family : 'sans-serif', 'Arial', 'ink-free', 'georgian', 'elephant', 'caribri';
+	font-size : 180%;
+}
+
+.container1{
+	height : auto;
+	width : 100%;
+	background-color: #ffffff;
+}
+
+img.commonimage{
+	width: 100%;
+}
+
+span.jstext{
+	text-decoration : none;
+}
+
+table{
+	text-decoration : none;
+}
+
+main{
+	background-color: #868686;
+}
+
+.container3{
+	position: absolute;
+	left: 20%;
+	top: 50%;
+	transform: translate(-50, -50);
+}
+
+#middleimage{
+	width: 80%;
+	height: 40%;
+}
+
+.box2{
+	height : 40%;
+	width : 40%;
+}
+
+.items{
+	height : 10%;
+	width : 10%;
+}
+
+.box3{
+    position: absolute;
+    top : 215%;
+    left: 53%;
+    transform: translate(-50%, -50%);
+    height: auto;
+    text-align: center;
+    align-items: center;
+}
+
+.discounttable td{
+    border: 1px dashed #000;
+    width: 375px;
+    height: 100px;
+}
+
+h3{
+    font-weight: bold;
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.discounttable th{
+    background-color: blueviolet;
+    width: 375px;
+    height: 75px;
+}
+
+.discounttable{
+    border: 1px solid black;
+}
+
+.extras{
+    position: absolute;
+    top: 315%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 800px;
+    width: 1610px;
+    background-color: #ffffff;
+    color: gray;
+	padding : 2% 10%;
+	padding-left : 12%;
+}
+
+/* .normal{
+	position : absolute;
+	left : 30%;
+} */
+
+/*.normal1{
+	position : absolute;
+	top : 80%;
+} */
+
+.box5{
+	align-items : center;
+	text-align : center;
+	background-color : #000;
+	color : #fff;
+	font-family : 'caribri', 'sans-serif';
+	font-size : 130%;
+	height : 600%;
+}
+
